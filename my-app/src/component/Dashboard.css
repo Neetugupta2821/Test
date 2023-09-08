@@ -1,0 +1,9 @@
+.darkMode{
+    background-color: #3788d8;
+  }
+  .lightMode{
+    background-color: #ddd;
+  }
+  .setFlex{
+    display:flex;
+  }

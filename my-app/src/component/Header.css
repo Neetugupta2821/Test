@@ -1,0 +1,24 @@
+.header_item{
+    display: flex;
+    padding: 5px;
+}
+.header_one{
+    display: flex;
+    flex: 1;
+}
+.header_two{
+    display: flex;
+    flex: 2;
+}
+.header_two > input{
+width: 50%;
+}
+.header_three{
+    padding: 0px 3px;
+}
+.darkMode{
+    background-color: #3788d8;
+  }
+  .lightMode{
+    background-color: #ddd;
+  }

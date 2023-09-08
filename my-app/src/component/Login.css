@@ -1,0 +1,61 @@
+.main_type{
+display: flex;
+  min-height: 100vh;
+  align-items: center;
+  justify-content: center;
+}
+.login_box{
+    border: 1px solid gray;
+    background-color: white !important;
+    padding: 20px;
+    max-width: 100%;
+    height: auto;
+    border-radius: 5%;
+    line-height: 2.5;
+}
+.login_box >h3{
+    font-size: 20px;
+    font-weight: 400;
+}
+.color_span{
+    font-size: 20px;
+    font-weight: 400;
+    color: aqua;
+}
+.login_box>p{
+    font-size: 13px;
+    color:gray;
+     
+}
+.email_type{
+    padding: 11px 0px;
+    border-radius: 10px;
+    font-size: 13px;
+    width: 100%;
+    border-style: double;
+    margin: 15px 0; 
+}
+.password_type{
+    padding: 11px 0px;
+    border-radius: 10px;
+    font-size: 13px;
+    width: 100%;
+    border-style: double;
+}
+.forget_link{
+    float: right;
+    /* text-decoration: none; */
+    color: black;
+    font-size: 16px;
+}
+.Login_btn{
+    padding: 5px 0px;
+    border-radius: 5px;
+    font-size: 13px;
+    width: 100%;
+    border-style: double;
+    background-color: #00f3ff;
+    border-style: hidden;
+    font-size: 14px;
+    font-weight: 500;
+}
