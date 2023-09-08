@@ -7,7 +7,7 @@ display: flex;
 .login_box{
     border: 1px solid gray;
     background-color: white !important;
-    padding: 20px;
+    padding: 30px;
     max-width: 100%;
     height: auto;
     border-radius: 5%;
